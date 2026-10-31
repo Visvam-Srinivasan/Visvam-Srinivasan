@@ -1,13 +1,84 @@
-# 💫 About Me:
-I am currently a Final Yeat B.E. CSE Student in College of Engineering Guindy, Anna University.<br>I am interested in embedded software, computer architecture, operating systems and robotics.
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visvam-srinivasan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visvamsrinivasan@gmail.com) 
+<h1 data-importer="text" align="left">Hello there 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Visvam-Srinivasan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Visvam-Srinivasan&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<p data-importer="text" align="left">I am Visvam Srinivasan, a final-year B.E. CSE Student at College of Engineering Guindy, Anna University. I am exploring low-level and embedded systems, machine learning, computer arcitecture, operating systems and robotics.</p>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/visvam-srinivasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:visvamsrinivasan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">✨ Making new things<br>📚 Learning more about the intersection of embedded systems, AI and robotics.<br><br>VIEW MY PROJECTS AND BLOGS - https://visvam-srinivasan.github.io/#/home</p>
+
+###
+
+<h2 data-importer="text" align="left">Experience</h2>
+
+###
+
+<h4 data-importer="text" align="left">Software Engineering Intern at Western Digital</h4>
+
+###
+
+<p data-importer="text" align="left">- Explored and understood the architecture of the JBOD Platform products of WD.<br>- Worked in a team of 3 which was tasked to plan, design, code, test and deploy two projects in the span of two months.<br>- Contributed to improvement in developer workflow by creating a Linux Resource monitoring, logging and analytics system to provide insights on how the Out of Band Management (OOBM) system's OS is performing and how specific RedFish API endpoints and ssh commands to OOBM affect resource availability. This allowed developers to analyze how the firmware to handle requests is functioning with the Linux environment.<br>- Improved testing workflow by creating an automated RedFish API crawler that flags potential incorrectly defined firmware code for specific API endpoints.</p>
+
+###
+
+<h2 data-importer="text" align="left">Technologies and Tools</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Statistics</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Visvam-Srinivasan/Visvam-Srinivasan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Visvam-Srinivasan/Visvam-Srinivasan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Visvam-Srinivasan/Visvam-Srinivasan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Visvam-Srinivasan/Visvam-Srinivasan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Visvam-Srinivasan/Visvam-Srinivasan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
