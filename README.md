@@ -72,6 +72,12 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&layout=compact)
 
+<!-- Contribution Score / Overall Stats -->
+![](https://github-readme-stats.vercel.app/api?username=Visvam-Srinivasan&theme=blue_navy&show_icons=true)
+<br/>
+
+<!-- Language Split -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&layout=compact&langs_count=5)
 ###
 
 <picture>
