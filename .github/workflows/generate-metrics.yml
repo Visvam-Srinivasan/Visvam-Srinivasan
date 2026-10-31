@@ -2,8 +2,8 @@ name: Generate Profile Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to manually trigger the run
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
   generate-assets:
@@ -15,42 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js (for Pacman generator)
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Fetch and Generate SVG Assets
+      - name: Generate Pacman Contribution Graphs
         run: |
-          # 1. Create target directories for the orphan branches
-          mkdir -p stats-output languages-output pacman-output
+          mkdir -p pacman-output
           
-          # 2. Fetch GitHub Readme Stats via cURL
-          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" > stats-output/stats.svg
-          
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=dracula&layout=compact&langs_count=5" > languages-output/languages.svg
-          
-          # 3. Generate Pacman Contribution Graphs using npx
           npx -y pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github-dark --output pacman-output/pacman-contribution-graph-dark.svg
           
           npx -y pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output pacman-output/pacman-contribution-graph.svg
-
-      # 4. Push to respective orphan branches
-      - name: Deploy Stats
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./stats-output
-          publish_branch: stats-output
-          force_orphan: true
-
-      - name: Deploy Languages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./languages-output
-          publish_branch: languages-output
-          force_orphan: true
 
       - name: Deploy Pacman
         uses: peaceiris/actions-gh-pages@v3
