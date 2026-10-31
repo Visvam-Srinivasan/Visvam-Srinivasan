@@ -66,18 +66,10 @@
 <h2 align="left">Statistics</h2>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=Visvam-Srinivasan&theme=blue_navy)
-<br/>
-![](https://streak-stats.demolab.com/?user=Visvam-Srinivasan&theme=blue_navy)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Visvam-Srinivasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Visvam-Srinivasan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Visvam-Srinivasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Contribution Score / Overall Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Visvam-Srinivasan&theme=blue_navy&show_icons=true)
-<br/>
-
-<!-- Language Split -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&layout=compact&langs_count=5)
 ###
 
 <picture>
