@@ -66,11 +66,11 @@
 <h2 align="left">Statistics</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Visvam-Srinivasan&theme=dracula&show_icons=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=dracula&layout=compact&langs_count=5" height="150" alt="languages graph" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Visvam-Srinivasan&theme=blue_navy)
+<br/>
+![](https://streak-stats.demolab.com/?user=Visvam-Srinivasan&theme=blue_navy)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visvam-Srinivasan&theme=blue_navy&layout=compact)
 
 ###
 
